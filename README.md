@@ -31,3 +31,5 @@ Test etmek için
 
 ## Test Sonuçları
 ![Test Sonuçları](./images/testSS.PNG)
+
+[Orijinal Proje Linki](https://github.com/ahfarmer/emoji-search)
